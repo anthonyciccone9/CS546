@@ -1,0 +1,22 @@
+html,
+body {
+  font-size: 14pt;
+}
+
+body {
+  background: #dedede;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+main {
+  max-width: 75%;
+  margin: auto;
+}
+
+li {
+  font-size: 12pt;
+}
+
+dt {
+  color: orange;
+}

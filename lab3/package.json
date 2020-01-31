@@ -1,0 +1,14 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "lab3 json",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Anthony Ciccone 10420930",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+  }
+}

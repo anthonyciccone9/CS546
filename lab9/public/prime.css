@@ -1,0 +1,48 @@
+/* I pledge my honor that I have abided by the Stevens Honor System. aciccone */
+.not-prime{
+    color:#FF3D00;
+    background-color: white;
+}
+.is-prime{
+    color:#00E676;
+    background-color: white;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+}
+h1{
+  border-style: solid;
+  border-radius: 1px;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+.foot{
+  margin-left: 600px;
+  margin-right: 600px;
+  padding: 10px;
+  color: blue;
+  font-size: 10pt;
+}
+#button{
+  margin: 10px;
+  padding: 10px;
+  background-color: cyan;
+  font-size: 10pt;
+}
+#attempts{
+  list-style-position: inside;
+}
+.all{
+  text-align: center;
+  color: black;
+}
+#foottext{
+  border-style: solid;
+  border-radius: 2px;
+}
+#query{
+  font-weight: bold;
+  color: cyan;
+}

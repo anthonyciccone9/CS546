@@ -1,0 +1,17 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "Animal Farm 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Anthony Ciccone 10420930",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.2.1",
+    "node-uuid": "^1.4.8",
+    "uuid": "^3.3.2"
+  }
+}

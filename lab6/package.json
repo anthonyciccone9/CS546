@@ -1,0 +1,14 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "Lab 6 of CS546",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Anthony Ciccone 10420930",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

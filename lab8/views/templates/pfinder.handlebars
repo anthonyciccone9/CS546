@@ -1,0 +1,11 @@
+{{#if hasPeople}}
+<h1> People Found </h1>
+<h2> Name parameter: {{personName}} </h2>
+  <ul>
+    {{#each person}}
+      <li> <a href = "/details/{{id}}"> {{name}} </a> </li>
+    {{/each}}
+  </ul>
+{{else}}
+  <p class = "not-found"> No people were found for {{personName}}.</p>
+{{/if}}
